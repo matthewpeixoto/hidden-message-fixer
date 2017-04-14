@@ -1,19 +1,27 @@
+---
+summary: 'Output the message by fixing the HTML, CSS & Javascript bugs.'
+time: '15 minutes'
+deliverables: '1 HTML file, 1 CSS file, 1 JS file'
+---
+
 # Hidden message fixer
 
-- Approx. completion time: **15 minutes**
-- Deliverables: **1 HTML file, 1 CSS file, 1 JS file**
+## Overview
+
+- *Fork this repository.*
+- Fix all the bugs to reveal the message.
+- *Run it through Markbot and make sure it passes all the checks.*
 
 ---
 
-**Find the hidden message by fixing the HTML, CSS & Javascript bugs.**
+## Goal
 
-- *Fork this repository.*
-- Fix all the bugs to reveal the secret message.
-- **The funny characters in the JS file, like: `\u2606` & `\x75` are supposed to be there—they are the message text written in another format.**
-- *Run it through Markbot and make sure it passes all the checks.*
+Visually match the images in the “screenshots” folder.
+
+- Final screenshots in the “screenshots” folder.
 
 ---
 
 ## Hand in
 
-Drop this folder into your Markbot application. Make sure to fix all the errors. And submit to Canvas using Markbot.
+Drop this folder into your Markbot application. Make sure to fix all the errors. And submit online.

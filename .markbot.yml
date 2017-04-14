@@ -1,9 +1,13 @@
 repo: "hidden-message-fixer"
-canvasCourse: "467503"
-canvasAssignment: "4202522"
 
 naming: true
-commits: 1
+restrictFileTypes: true
+liveWebsite: true
+
+git:
+  numCommits: 1
+  allCommitted: true
+  allSynced: true
 
 html:
   - path: "index.html"
@@ -19,3 +23,7 @@ js:
   - path: "js/main.js"
     valid: true
     bestPractices: true
+
+screenshots:
+  - path: 'index.html'
+    sizes: [400]
